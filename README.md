@@ -99,9 +99,9 @@ Everything in Harvesta PRO at a glance. Features marked ◇ are on the roadmap a
 | Per-stem volume, mute and filter, click-free | Drifting-tempo detection ◇ | 2× Kontrol X1 MK1, tested |
 | Stems made offline on your laptop | Beat grid tools: move, set downbeat, ×½, ×2, ×⅔ | Generic MIDI controllers with MIDI learn |
 | Sync with Master Clock; Sync stays on between tracks | Automatic gain | Soft takeover and all MIDI encoder modes |
-| Key lock, spread over every CPU core | Import Traktor collections with cues, grids and keys | Numark Mixtrack Pro FX as controller and sound card ◇ |
+| Key lock, spread over every CPU core | Import collections with cues, grids and keys | Numark Mixtrack Pro FX as controller and sound card ◇ |
 | Snap and Quantize for cues, loops and jumps | Import iTunes and Apple Music libraries | Pioneer DJ gear, basic support ◇ |
-| Hot cues, beat jump and loops up to 64 beats | Import Traktor controller mappings (.tsi) | One Devices page for mixer, controllers and drivers |
+| Hot cues, beat jump and loops up to 64 beats | Import controller mappings (.tsi) | One Devices page for mixer, controllers and drivers |
 | Press the active loop size again to exit the loop | Drag and drop from Windows Explorer | Plug-and-play: known devices set themselves up |
 | Delay, Reverb, Flanger, Gater, Beatmasher, Phaser, Filter LFO and more | Preparation list with live stem progress | Controller mapping editor: press a control, click its job |
 | Group mode (3 effects) and Single mode | Stems for the whole library, in the background | Every browser action on a key or button |
@@ -111,7 +111,7 @@ Everything in Harvesta PRO at a glance. Features marked ◇ are on the roadmap a
 | Mix Recorder, with +24 dB gain and clip meter for external mixers | Search grammar: `bpm:120-126 key:8A` ◇ | Updates never download or install mid-set |
 | Mastering suite on the master output ◇ | Smart playlists with nested AND/OR rules ◇ | One-step rollback to the previous version ◇ |
 | Limiter with true-peak metering | Custom tag groups ◇ | Scripting: your own actions in Luau ◇ |
-| Hi-res Traktor-style colour waveforms | Mix-in and mix-out points with countdown ◇ | Harvesta API over WebSocket and OSC ◇ |
+| Hi-res colour waveforms | Mix-in and mix-out points with countdown ◇ | Harvesta API over WebSocket and OSC ◇ |
 | Track-end warning | Beat normalisation for drifting tracks ◇ | AI assistant via an MCP server, read-only first ◇ |
 | Duplicate deck | Set check: is this playlist gig-ready? ◇ | AI drafts: playlists and set orders you approve ◇ |
 | Remix Decks with saved loops | Gig library copy, frozen for the night ◇ | VST3 plug-ins as effects and decks ◇ |
