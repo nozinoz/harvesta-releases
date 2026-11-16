@@ -6,7 +6,7 @@
 
 > **Status: release candidates.** We're working through release candidates until Harvesta 1.0 is ready
 > to ship. The newest one is
-> [0.5.0-rc.60](https://github.com/nozinoz/harvesta-releases/releases/tag/v0.5.0-rc.60). Release
+> [0.5.0-rc.61](https://github.com/nozinoz/harvesta-releases/releases/tag/v0.5.0-rc.61). Release
 > candidates are test builds, so expect rough edges, and features marked ◇ below are still to come.
 
 **Professional four-deck DJ software for Windows.**
