@@ -75,9 +75,9 @@ Every release is tested on a modest laptop with a three-hour, four-deck soak, st
 before it reaches you.
 
 ### Your hardware, connected
-Use an external DJ mixer over ASIO and connect your controllers. Harvesta is tested with the
-Allen & Heath Xone:DB2 and Native Instruments Kontrol X1 MK1, with more controller mappings on
-the way.
+Use an external DJ mixer or audio interface over ASIO, and connect your MIDI or HID
+controllers. Harvesta is tested with a real external mixer and two controllers, with more
+controller mappings on the way.
 
 ### Updates that respect your set
 Harvesta checks for new versions in the background and installs only when you're ready. It never
@@ -95,12 +95,12 @@ Everything in Harvesta PRO at a glance. Features marked ◇ are on the roadmap a
 | Perform | Prepare and organise | Connect, control and extend |
 |---|---|---|
 | 4 decks: Track, Stem and Remix Decks | Tempo, key and loudness analysis | External DJ mixers over ASIO |
-| Stems: drums, bass, vocals and other | Hybrid key detection matched to pro reference keys | Allen & Heath Xone:DB2, tested |
-| Per-stem volume, mute and filter, click-free | Drifting-tempo detection ◇ | 2× Kontrol X1 MK1, tested |
+| Stems: drums, bass, vocals and other | Hybrid key detection matched to pro reference keys | External mixer, tested |
+| Per-stem volume, mute and filter, click-free | Drifting-tempo detection ◇ | Two controllers, tested |
 | Stems made offline on your laptop | Beat grid tools: move, set downbeat, ×½, ×2, ×⅔ | Generic MIDI controllers with MIDI learn |
 | Sync with Master Clock; Sync stays on between tracks | Automatic gain | Soft takeover and all MIDI encoder modes |
-| Key lock, spread over every CPU core | Import collections with cues, grids and keys | Numark Mixtrack Pro FX as controller and sound card ◇ |
-| Snap and Quantize for cues, loops and jumps | Import iTunes and Apple Music libraries | Pioneer DJ gear, basic support ◇ |
+| Key lock, spread over every CPU core | Import collections with cues, grids and keys | All-in-one controllers with built-in sound card ◇ |
+| Snap and Quantize for cues, loops and jumps | Import iTunes and Apple Music libraries | More controller mappings ◇ |
 | Hot cues, beat jump and loops up to 64 beats | Import controller mappings (.tsi) | One Devices page for mixer, controllers and drivers |
 | Press the active loop size again to exit the loop | Drag and drop from Windows Explorer | Plug-and-play: known devices set themselves up |
 | Delay, Reverb, Flanger, Gater, Beatmasher, Phaser, Filter LFO and more | Preparation list with live stem progress | Controller mapping editor: press a control, click its job |
@@ -153,5 +153,4 @@ major version. See each release for its notes.
 
 ---
 
-<sub>Harvesta PRO is independent software and isn't affiliated with or endorsed by any of the
-hardware makers named on this page. Product names belong to their owners.</sub>
+<sub>Harvesta PRO is independent software. Product names belong to their owners.</sub>
