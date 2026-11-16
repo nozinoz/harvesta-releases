@@ -9,7 +9,7 @@
 > [0.5.0-rc.64](https://github.com/nozinoz/harvesta-releases/releases/tag/v0.5.0-rc.64). Release
 > candidates are test builds, so expect rough edges, and features marked ◇ below are still to come.
 
-**Professional four-deck DJ software for Windows.**
+**Professional DJ software for Windows.**
 
 Prepare your library, perform with confidence, and play the whole night on the laptop you already
 own. Harvesta brings stems, smart analysis, studio-grade effects and a stable audio engine together
