@@ -4,10 +4,9 @@
 
 # Harvesta PRO
 
-> **Status: release candidates.** We're working through release candidates until Harvesta 1.0 is ready
-> to ship. The newest one is
-> [0.5.0-rc.64](https://github.com/nozinoz/harvesta-releases/releases/tag/v0.5.0-rc.64). Release
-> candidates are test builds, so expect rough edges, and features marked ◇ below are still to come.
+> **Harvesta 1.0 is here.** Download it from the
+> [latest release](https://github.com/nozinoz/harvesta-releases/releases/latest). Features marked ◇ below
+> are still to come.
 
 **Professional DJ software for Windows.**
 
