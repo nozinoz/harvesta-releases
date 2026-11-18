@@ -2,7 +2,7 @@
   <img src="harvesta-lockup-600-dark.png" alt="Harvesta" width="420">
 </p>
 
-# Harvesta PRO
+# Harvesta
 
 > **Harvesta 1.0 is here.** Download it from the
 > [latest release](https://github.com/nozinoz/harvesta-releases/releases/latest). Features marked ◇ below
