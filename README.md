@@ -2,19 +2,31 @@
   <img src="harvesta-lockup-600-dark.png" alt="Harvesta" width="420">
 </p>
 
-# Harvesta
+# Harvesta: free DJ software for Windows
 
-> **Harvesta 1.0 is here.** Download it from the
+**Free, offline DJ software for Windows 10 and 11, with built-in stem separation.** Mix on four
+decks with a DJ mixer or MIDI controller, split tracks into drums, bass, vocals and other, and get
+tempo (BPM), key and beat grid analysis. Effects, a Loop Recorder and a Mix Recorder are included.
+No account, no cloud, no subscription.
+
+> **Harvesta 1.1 is here.** Download it from the
 > [latest release](https://github.com/nozinoz/harvesta-releases/releases/latest). Features marked ◇ below
 > are still to come.
-
-**Professional DJ software for Windows.**
 
 Prepare your library, perform with confidence, and play the whole night on the laptop you already
 own. Harvesta brings stems, smart analysis, studio-grade effects and a stable audio engine together
 in one program that works completely offline.
 
 **[Download the latest version](https://github.com/nozinoz/harvesta-releases/releases/latest)**  ·  Windows 10 / 11 (64-bit)  ·  Free
+
+### New in 1.1
+- A guided first-run setup, and a splash image of your own at start.
+- The Loop Deck: loops in the library browser that stay in tune when the master tempo changes.
+- A tracklist and a .cue sheet for every mix recording.
+- A dark-booth display mode (F9) and a cheat sheet of keys and controller buttons (hold F8).
+- Pre-gig check "Fix it for me", and much lower CPU use when nothing on screen moves.
+
+See the [release notes](https://github.com/nozinoz/harvesta-releases/releases/latest) for everything.
 
 ---
 
@@ -89,7 +101,7 @@ Everything runs on your laptop, stems included. No sign-in, no cloud, no data co
 
 ## Full feature list
 
-Everything in Harvesta PRO at a glance. Features marked ◇ are on the roadmap and not in this release yet.
+Everything in Harvesta at a glance. Features marked ◇ are on the roadmap and not in this release yet.
 
 | Perform | Prepare and organise | Connect, control and extend |
 |---|---|---|
@@ -123,7 +135,7 @@ Everything in Harvesta PRO at a glance. Features marked ◇ are on the roadmap a
 
 ## Download and install
 
-1. Download **Harvesta-PRO-Setup** from the [latest release](https://github.com/nozinoz/harvesta-releases/releases/latest).
+1. Download **Harvesta-Setup** (for example `Harvesta-Setup-v1.1.exe`) from the [latest release](https://github.com/nozinoz/harvesta-releases/releases/latest).
 2. Run it and follow the short setup. Windows may ask for permission to install.
 3. Start Harvesta, add your music folder, and let it analyse your tracks.
 
@@ -152,4 +164,4 @@ major version. See each release for its notes.
 
 ---
 
-<sub>Harvesta PRO is independent software. Product names belong to their owners.</sub>
+<sub>Harvesta is independent software. Product names belong to their owners.</sub>
