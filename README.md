@@ -6,9 +6,9 @@
   </picture>
 </p>
 
-# Harvesta: free DJ software for Windows
+# Harvesta: professional DJ software
 
-**Free, offline DJ software for Windows 10 and 11, with built-in stem separation.** Mix on four
+**DJ software for Windows 10 and 11, with built-in stem separation.** Mix on four
 decks with a DJ mixer or MIDI controller, split tracks into drums, bass, vocals and other, and get
 tempo (BPM), key and beat grid analysis. Effects, a Loop Recorder and a Mix Recorder are included.
 No account, no cloud, no subscription.
