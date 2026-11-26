@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="harvesta-lockup-600-dark.png" alt="Harvesta" width="420">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="harvesta-logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="harvesta-logo-black.png">
+    <img src="harvesta-logo-black.png" alt="Combine Harvesta" width="566">
+  </picture>
 </p>
 
 # Harvesta: free DJ software for Windows
