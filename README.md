@@ -2,12 +2,14 @@
   <img src="harvesta-lockup-600-dark.png" alt="Harvesta" width="420">
 </p>
 
-# Harvesta: free DJ software for Windows
+# Harvesta: DJ software for Windows
 
-**Free, offline DJ software for Windows 10 and 11, with built-in stem separation.** Mix on four
+**DJ software for Windows 10 and 11, with built-in stem separation.** Mix on four
 decks with a DJ mixer or MIDI controller, split tracks into drums, bass, vocals and other, and get
 tempo (BPM), key and beat grid analysis. Effects, a Loop Recorder and a Mix Recorder are included.
 No account, no cloud, no subscription.
+
+Look into this if youre into Native Intruments Traktor, Serato, MIXX, VirtualDJ, Recordbox.
 
 > **Harvesta 1.1 is here.** Download it from the
 > [latest release](https://github.com/nozinoz/harvesta-releases/releases/latest). Features marked ◇ below
@@ -50,7 +52,7 @@ is tuned against professional reference analysis, so harmonic mixing works the w
 Delays, reverbs, filters, gaters, phasers, flangers and more, tuned for DJ use. Chain three effects
 in Group mode or go deep on a single effect. Changes are smooth and click-free.
 
-### Loop Recorder
+### Loop Recorder Deck.
 Capture loops on the beat from your mix, layer new parts on top, and bring back loops you recorded
 earlier in the set. Drag a saved loop straight into a Remix Deck.
 
