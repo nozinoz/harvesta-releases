@@ -21,7 +21,7 @@ Prepare your library, perform with confidence, and play the whole night on the l
 own. Harvesta brings stems, smart analysis, studio-grade effects and a stable audio engine together
 in one program that works completely offline.
 
-**[Download the latest version](https://github.com/nozinoz/harvesta-releases/releases/latest)**  ·  Windows 10 / 11 (64-bit)  ·  Free
+**[Download the latest version](https://github.com/nozinoz/harvesta-releases/releases/latest)**  ·  Windows 10 / 11 (64-bit)
 
 <p align="center">
   <img src="screenshot.png" alt="Harvesta 1.1: two decks, mixer, effects and the track browser" width="900">
